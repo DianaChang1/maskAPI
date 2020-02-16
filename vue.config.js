@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "./maskAPI/dist"
+  publicPath: "/maskAPI/dist/"
 };
